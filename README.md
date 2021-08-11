@@ -48,7 +48,9 @@ Ions can arrive very close together (similar location) or at nearly the same tim
 
 # Inside The Atom Probe
 ![Image](/LEAP5000XS/Atom_Probe_Inside(1).png)
-The specimen is very small and at the very tip of the prong. The local electrode help to accelerate the ions. 
+The specimen is very small and at the very tip of the prong. The local electrode help to accelerate the ions.  
+![Image](/LEAP5000XS/Atom_Probe_Inside(2).png)
+Here, the specimen can be more clearly spotted. It is the sharp narrow tip at the end of the prong. 
 
 # Using The Atom Probe/Procedures
 
