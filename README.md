@@ -66,6 +66,8 @@ Another perspective of the set-up.
 
 # Using The Atom Probe/Procedure
 The stage with the specimen is adjusted and moved to the correct position so that the specimen is in-line with the laser. 
+![Image](/Diagrams:Graphs/monitor.png)  
+This was the data being collected while the atom probe was running. There is a voltage graph, a mass spectrum, and a graph demonstrating the concentration of various elements. 
 
 # Results of Atom Probe Analysis
 ![Image](/Diagrams:Graphs/Final_Mass_Spectrum.png)  
