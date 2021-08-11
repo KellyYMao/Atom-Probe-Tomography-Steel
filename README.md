@@ -66,4 +66,5 @@ Another perspective of the set-up.
 # Using The Atom Probe/Procedures
 
 # Results of Atom Probe Analysis
-![Image](/Diagrams:Graphs/Final_Mass_Spectrum.JPG)  
+![Image](/Diagrams:Graphs/Final_Mass_Spectrum.png)  
+Final Mass Spectrum. There are various Cr oxides represented in shades of red. 
