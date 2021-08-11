@@ -5,7 +5,7 @@ Atom Probe Tomography (APT) uses field evaporation and a high voltage laser to i
 LEAP5000XS is a local electron atom probe at Northwestern. This was the specific atom probe I was able to work with. LEAP5000XS has 80% detection efficiency. It uses an ultraviolet laser to assist in ion evporation.  
 ![Image](/LEAP5000XS/image3.jpeg)  
 ![Image](/LEAP5000XS/image2.jpeg)  
-![Image](/LEAP5000XS/image1.jpeg)
+![Image](/LEAP5000XS/image1.jpeg)  
 Images taken of LEAP
 
 # Specimen Preparation 
@@ -17,6 +17,6 @@ An electric field is applied and used to separate a surface-atom from its latice
 Ion evaporation Diagram  
 
 The atom must overcome the energy-barrier binding it to the surface. The height of this energy barrier can be calculated with from the following formula: 
-image  
-![Image](/Equations/Energy_Barrier_Height.png) 
+![Image](/Equations/Energy_Barrier_Height.png)  
+
 The evaporation field or the value of the field at which the energy barrier for surface evaporation is zero can be calculated using the following formula: 
