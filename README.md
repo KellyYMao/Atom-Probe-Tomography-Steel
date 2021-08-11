@@ -22,7 +22,7 @@ The electric field tends to penetrate more deeply into non-metallic materials th
 # Field Evaporation
 An electric field is applied and used to separate a surface-atom from its latice. In the process, the atom is ionized. The exact mechanisms of field evporation are still debated. Generally, it is thought that either the atom is fully ionized prior to evaporation or that while the atom is being evporated, charge is progressively drained.  
 ![Image](/Diagrams:Graphs/Ion_Evaporation.png)  
-Ion evaporation Diagram  
+Field evaporation Diagram  
 
 The atom must overcome the energy-barrier binding it to the surface. The height of this energy barrier can be calculated with from the following formula: 
 ![Image](/Equations/Energy_Barrier_Height.png)  
