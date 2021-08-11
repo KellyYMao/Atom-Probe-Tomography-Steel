@@ -19,4 +19,8 @@ Ion evaporation Diagram
 The atom must overcome the energy-barrier binding it to the surface. The height of this energy barrier can be calculated with from the following formula: 
 ![Image](/Equations/Energy_Barrier_Height.png)  
 
-The evaporation field or the value of the field at which the energy barrier for surface evaporation is zero can be calculated using the following formula: 
+The evaporation field or the value of the field at which the energy barrier for surface evaporation is zero can be calculated using the following formula:  
+![Image](/Equations/Field_Evaporation.png)
+
+# Evaporation Rate
+The formula for evaporation rate is as follows:
