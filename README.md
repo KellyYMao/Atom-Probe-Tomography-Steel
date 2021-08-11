@@ -28,7 +28,14 @@ The formula for evaporation rate is as follows:
 The actual evporation rate at high and low temperatures tends to deviate from the equation above. Ion tunneling (electrons that are able to overcome the energy barrier required to escape from the atom) can occur at low temperatures in which the evporation may become less temperature-dependent.  
 There are two ways to control the rate of evaporation. Either the temperature is held constant with a varying electric field or the electric field is held constant with varying temperature. 
 
-# Electrostatic Pressure & Associated Stress
+# Time Of Flight
+The time of flight measures the time is takes for the ion to be detected.  
+The time of flight can be approximately determined using the following:  
+
+
+
+# Electrostatic Pressure & Stress
 Atom probe analysis is tends to be more successful with ductile materials than with brittle materials. Electrostatic pressure can induce stress on the specimen which can result in fractures. The type of material, shape of the specimen, size of radius, etc., are factors that can be changes in order to reduce the risk of fracture due to stresses.  
 
 The electrostatic pressure can be desrcibed by the following:  
+![Image](/Equations/Electrostatic_Pressure.png)
