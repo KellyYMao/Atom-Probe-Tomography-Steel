@@ -2,7 +2,7 @@
 Atom Probe Tomography (APT) uses field evaporation and a high voltage laser to ionize and remove surface atoms. The ions are accelerated and detected. The position-sensisitive detector helps to determine the identity and position of the atom. A three-dimensional construction of the specimen can then be made. 
 
 # Atom Probe With Steel 
-The atom probe was used with DOW steel. This Ni-Cr steel has an oxide layer. The purpose of using the atom probe with this steel was to analyze the composition of steel in order to determine structural and compositional factors that may lead the oxide layer to fail/for metal dusting to occur. 
+The atom probe was used with DOW steel. This Ni-Cr alloy has an oxide layer. The purpose of using the atom probe with this steel was to analyze the composition of steel in order to determine structural and compositional factors that may lead the oxide layer to fail/metal dusting to occur. 
 
 # LEAP5000XS
 LEAP5000XS is a local electron atom probe at Northwestern. This was the specific atom probe I was able to work with. LEAP5000XS has 80% detection efficiency. It uses an ultraviolet laser to assist in ion evporation.  
