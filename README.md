@@ -46,5 +46,10 @@ The electrostatic pressure can be desrcibed by the following:
 # Multiple-Hit Capacity
 Ions can arrive very close together (similar location) or at nearly the same time. When ions arrive close together, the electrical signal may overlap, causing the arrival of the two ions to be recorded as a single event. 
 
+# Inside The Atom Probe
+![Image](/LEAP5000XS/Atom_Probe_Inside(1).png)
+The specimen is very small and at the very tip of the prong. The local electrode help to accelerate the ions. 
+
 # Using The Atom Probe/Procedures
+
 
