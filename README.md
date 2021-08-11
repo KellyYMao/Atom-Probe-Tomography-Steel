@@ -70,5 +70,9 @@ Another perspective of the set-up.
 Final Mass Spectrum. There are various Cr oxides represented in shades of red. 
 
 ![Image](/Diagrams:Graphs/Three_Dimensional_Mixtures.png)  
-These a 3-D reconstructions of the sample with various elements and molecules being shown. Purple is manganese, red is various chrome-containing oxides, aqua is oxygen, green is hydrogen, and blue is silicon. From these models, we can see the various grain boundaries within the specimen. 
+These a 3-D reconstructions of the sample with various elements and molecules being shown. Purple is manganese, red is various chrome-containing oxides, aqua is oxygen, green is hydrogen, and blue is silicon. From these models, we can see the various grain boundaries within the specimen.  
 
+![Image](/Diagrams:Graphs/three_dimensional_grain.png)  
+These are three-dimension reconstructions of the specimen. A specific region along a grain boundary was chosen for analysis.  
+![Image](/Diagrams:Graphs/three_dimensional_grain_concentration.png)  
+Graphs showing the concentration of various elements and molecules within the specific region chosen above. 
