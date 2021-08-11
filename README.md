@@ -1,5 +1,5 @@
 # Atom-Probe-Tomography Overview
-Atom Probe Tomography (APT) uses field evaporation and a high voltage laser to ionize and remove surface atoms. The ions are accelerated and detected. The position-sensisitive detector helps to determine the identity and position of the atom. A three-dimensional construction of the specimen can then be made. 
+Atom Probe Tomography (APT) uses field evaporation and a high voltage laser to ionize and remove surface atoms. The ions are accelerated and detected. The position-sensisitive detector helps to determine the identity and position of the atom. A three-dimensional construction of the specimen can then be made.
 
 # Atom Probe With Steel 
 The atom probe was used with DOW steel. This Ni-Cr alloy has chromium oxide and silicon oxide layers. The purpose of using the atom probe with this steel was to analyze the composition of steel in order to determine structural and compositional factors that may lead the oxide layer to fail/metal dusting to occur. 
@@ -68,3 +68,7 @@ Another perspective of the set-up.
 # Results of Atom Probe Analysis
 ![Image](/Diagrams:Graphs/Final_Mass_Spectrum.png)  
 Final Mass Spectrum. There are various Cr oxides represented in shades of red. 
+
+![Image](/Diagrams:Graphs/Three_Dimensional_Mixtures.png)  
+These a 3-D reconstructions of the sample with various elements and molecules being shown. Purple is manganese, red is various chrome-containing oxides, aqua is oxygen, green is hydrogen, and blue is silicon. From these models, we can see the various grain boundaries within the specimen. 
+
