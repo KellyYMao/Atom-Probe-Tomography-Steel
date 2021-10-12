@@ -80,5 +80,3 @@ These a three-dimensional reconstructions of the sample with various elements an
 These are three-dimensional reconstructions of the specimen. A specific region along a grain boundary was chosen for analysis.  
 ![Image](/Diagrams:Graphs/three_dimensional_grain_concentration.png)  
 Graphs showing the concentration of various elements and molecules within the specific region chosen above. 
-
-# Conclusions
